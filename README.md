@@ -1,4 +1,4 @@
-<h1> Sistema de registro </h1>
+<h1> Sistema de registro segunda prueba </h1>
 
 -estado del proyecto en prueba.
 
